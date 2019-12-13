@@ -1,7 +1,7 @@
 /*
  Theme Name:   Twenty twenty Child
  Theme URI:    http://example.com/twenty-fifteen-child/
- Description:  Twenty Fifteen Child Theme
+ Description:  Twenty twenty Child Theme
  Author:       John Doe
  Author URI:   http://example.com
  Template:     twentytwenty
@@ -11,3 +11,11 @@
  Tags:         light, dark, two-columns, right-sidebar, responsive-layout, accessibility-ready
  Text Domain:  twentyfifteenchild
 */
+
+h1,
+.heading-size-1 {
+	font-size: 6rem;
+	font-weight: 800;
+	line-height: 1.138888889;
+background-color:powderblue;;
+}
