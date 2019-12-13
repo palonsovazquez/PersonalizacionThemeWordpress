@@ -19,13 +19,7 @@
 					<div class="footer-credits">
 
 						<p class="footer-copyright">&copy;
-							<?php
-							echo date_i18n(
-								/* translators: Copyright date format, see https://secure.php.net/date */
-								_x( 'Y', 'copyright date format', 'twentytwenty' )
-							);
-							?>
-							<a href="<?php echo esc_url( home_url( '/' ) ); ?>"><?php echo bloginfo( 'name' ); ?></a>
+						<h1 stype="background-color:red"> Estos no son los droides que estas buscando</h1>
 						</p><!-- .footer-copyright -->
 
 						<p class="powered-by-wordpress">
